@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>مكتبتي الأنيقة</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>📚 مكتبتي</h1>
+
+    <div class="form">
+      <input type="text" id="title" placeholder="اسم الكتاب">
+      <input type="text" id="author" placeholder="اسم المؤلف">
+      <input type="text" id="link" placeholder="رابط تحميل الكتاب (PDF)">
+      <button onclick="addBook()">➕ أضف الكتاب</button>
+    </div>
+
+    <h2>📖 قائمة الكتب:</h2>
+    <ul id="bookList"></ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
