@@ -3,42 +3,42 @@ const defaultBooks = [
   {
     title: "التعاون والتواصل مع اعضاء الفريق والادارة لاغراض تطوير التطبيقات",
     author: "CAVT",
-    link: "books/1 v2.0.pdf"
+    link: "books/1.pdf"
   },
   {
     title: "الحفاظ على وثائق العمل في جميع مراحل تطوير التطبيق",
     author: "CAVT",
-    link: "books/2 v2.0.pdf"
+    link: "books/2.pdf"
   }
   {
     title: "المساهمة في عملية تخطيط وتصميم التطبيق",
     author: "CAVT",
-    link: "books/3 v2.0 (2).pdf"
+    link: "books/3.pdf"
   },
   {
     title: "مقدمة في علم البرمجة",
     author: "CAVT",
-    link: "books/4 v2.0.pdf"
+    link: "books/4.pdf"
   }
 {
     title: "المساهمة في تطوير التطبيقات",
     author: "CAVT",
-    link: "books/5 v2.0.pdf"
+    link: "books/5.pdf"
   },
   {
     title: "المعرفة بقواعد البيانات العلاقية (SQL) او قواعد البيانات غير العلائقية (NoSQL) بالاضافة إلى نمذجة البيانات وتحسين الاستعلام",
     author: "CAVT",
-    link: "books/6 v2.0 (1).pdf"
+    link: "books/6.pdf"
   }
 {
     title: "المساهمة في اختبار وتصحيح التطبيق وتوثيقة",
     author: "CAVT",
-    link: "books/7 v2.0.pdf"
+    link: "books/7.pdf"
   },
   {
     title: "أمن التطبيقات وضمان جودة التطبيق",
     author: "CAVT",
-    link: "books/8 v2.0.pdf"
+    link: "books/8.pdf"
   }
 ];
 
